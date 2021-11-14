@@ -12,6 +12,7 @@
 ### React.js video tutorial
 - [코딩애플 - 리액트 기초](https://www.youtube.com/playlist?list=PLfLgtT94nNq1e6tr4sm2eH6ZZC2jcqGOy)
 - [노마드 코더 - ReactJS로 영화 웹 서비스 만들기](https://nomadcoders.co/react-for-beginners/lobby)
+- [노마드 코더 - 실전형 리액트 Hooks 10개](https://nomadcoders.co/react-hooks-introduction/lobby)
 - [Academind - React The Complete Guide (incl Hooks, React, Router, Redux](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 
