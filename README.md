@@ -21,3 +21,10 @@
 
 ### React.js Books
 - [리액트를 다루는 기술](http://www.yes24.com/Product/Goods/78233628)
+
+
+<br><br>
+
+
+### 기타 참고자료
+- [벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)
